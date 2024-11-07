@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Andy/Documents/GitHub/Practica-9/Web2","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Andy/Documents/GitHub/Practica-9","disabled":false,"__vagrantfile":true}}}
